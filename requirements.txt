@@ -2,3 +2,4 @@ numpy
 ipykernel
 sklearn
 matplotlib
+plotly
