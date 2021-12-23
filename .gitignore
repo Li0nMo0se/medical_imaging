@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 icp/.ipynb_checkpoints
+segmentation/.ipynb_checkpoints
 .venv
 __pycache__
 icp/__pycache__
 icp/icp/__pycache__
+segmentation/__pycache__
